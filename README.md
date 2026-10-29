@@ -1,4 +1,4 @@
-# Ak-Osama
+# Studio Dev
 
 Developer focused on web applications, Windows software and practical testing. Seeking Junior Software Developer, Front-End, Full-Stack, Web Developer and QA Tester opportunities.
 
